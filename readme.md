@@ -18,4 +18,4 @@ Site responsivo para tablets e smartphones (first mobile), usando tecnologias co
 
 </div>
 
-Site hospedado na Vercel: https://pazzini-restaurant-d2yzu2ce9-diegopazzini.vercel.app/?vercelToolbarCode=xamOI6ndhN8DsT7#
+Site hospedado na Vercel: https://pazzini-restaurant-d2yzu2ce9-diegopazzini.vercel.app/?vercelToolbarCode=xamOI6ndhN8DsT7#](https://pazzini-restaurant-88ls.vercel.app/?vercelToolbarCode=Ym_C9Sei-DrnUsG)https://pazzini-restaurant-88ls.vercel.app/?vercelToolbarCode=Ym_C9Sei-DrnUsGv
