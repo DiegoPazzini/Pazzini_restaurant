@@ -22,6 +22,15 @@ $(document).ready(function() {
             email: 'Insira seu e-mail',
             mensagem: 'Insira uma mensagem',
             telefone: 'Insira seu telefone'
+        },
+        submitHandler: function(form){ //form é o parâmetro da função//
+            alert('Enviado com sucesso');   
+        },
+        invalidHandler:function(form, validador){
+            let camposIncorretos = validador.numberOfInvalids();
+            if (camposIncorretos){
+                alert(`Existem ${camposIncorretos} campos não preenchidos.`);
+            }
         }
     })
 })
