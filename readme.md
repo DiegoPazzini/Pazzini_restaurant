@@ -11,6 +11,11 @@ Site responsivo para tablets e smartphones (first mobile), usando tecnologias co
 
 <img width="800" src="./Imagens/capa_Pazzini_Restaurant.JPG">
 
+
+<h2>Visualização Online</h2>
+
+<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:</p> https://pazzini-restaurant-88ls.vercel.app/?vercelToolbarCode=Ym_C9Sei-DrnUsG
+
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,6 +33,3 @@ Site responsivo para tablets e smartphones (first mobile), usando tecnologias co
 
 </div>
 
-<h2>Visualização Online</h2>
-
-<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:</p> https://pazzini-restaurant-88ls.vercel.app/?vercelToolbarCode=Ym_C9Sei-DrnUsG
