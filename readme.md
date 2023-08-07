@@ -7,7 +7,7 @@ Site responsivo para tablets e smartphones (first mobile), usando tecnologias co
 <h2>
     Pré-visualização
  </h2>
-  <h3>Landing Page da Loja</h3>
+  <h3>Landing Page</h3>
 
 <img width="800" src="./Imagens/capa_Pazzini_Restaurant.JPG">
 
