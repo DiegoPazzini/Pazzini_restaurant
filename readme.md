@@ -1,5 +1,7 @@
 # Pazzini_restaurant
 
+ <h2>Descrição do Projeto</h2>
+
 Site responsivo para tablets e smartphones (first mobile), usando tecnologias como Jquery, máscaras e bootstrap. 
 
 ## Skills utilizadas:
@@ -19,4 +21,6 @@ Site responsivo para tablets e smartphones (first mobile), usando tecnologias co
 
 </div>
 
-Site hospedado na Vercel: https://pazzini-restaurant-88ls.vercel.app/?vercelToolbarCode=Ym_C9Sei-DrnUsG
+<h2>Visualização Online</h2>
+
+<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:</p> https://pazzini-restaurant-88ls.vercel.app/?vercelToolbarCode=Ym_C9Sei-DrnUsG
