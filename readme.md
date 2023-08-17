@@ -2,7 +2,7 @@
 
  <h2>Descrição do Projeto</h2>
 
-Site responsivo para tablets e smartphones (first mobile), usando tecnologias como Jquery, máscaras e bootstrap. 
+Lading page desenvolvida para a conclusão do módulo 14 do curso: Desenvolvedor FullStack Java. Lading page de uma página de restaurante. Site responsivo para tablets e smartphones (first mobile), usando tecnologias como Jquery, máscaras e bootstrap.
 
 <h2>
     Pré-visualização
